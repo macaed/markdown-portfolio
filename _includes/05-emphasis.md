@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Havind this type of experiencies is wonderful*
+_Havind this type of experiencies is wonderful_
+
+**Havind this type of experiencies is wonderful**
+__Havind this type of experiencies is wonderful__
+
+_You **can** combine them_
